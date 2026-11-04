@@ -1,0 +1,14 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user
+
+# Large data — downloaded from GEO, don't upload
+GSE125026/
+GSE173252/
+*.rds
+*.rds.gz
+*.tar
+*.gz
+
+# Keep result CSVs and figures (do NOT ignore those)
